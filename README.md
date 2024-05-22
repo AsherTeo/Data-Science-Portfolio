@@ -2,8 +2,8 @@
 
 ##  Project 1 - MrBeast Analysis with Dashboard 
 
-Programing Language / Software - Python, Power BI \
-Python Library - Numpy, Pandas, Seaborn, Scikit-learn, nltk,  strings
+Programing Language / Software - **Python, Power BI** \
+Python Library - **numpy, pandas, seaborn, scikit-learn, nltk,  strings**
 
 **Summary of the project**:
 
