@@ -1,5 +1,7 @@
 ## Introduction
 
+Hi, I am Asher, a passionate data scientist and analyst with a keen interest in uncovering insights from complex datasets. With a strong foundation in Python, SQL, and data visualization tools like Power BI, I strive to translate data into actionable insights and compelling narratives. Below, you'll find a selection of my projects that showcase my skills in data extraction, analysis, machine learning, and interactive dashboard creation.
+
 ##  [Project 1 - MrBeast Analysis with Dashboard](https://github.com/AsherTeo/MR-Beast-Data-Analytics)
 
 Programing Language / Software - **Python, Power BI** \
