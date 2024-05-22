@@ -3,7 +3,7 @@
 ##  [Project 1 - MrBeast Analysis with Dashboard](https://github.com/AsherTeo/MR-Beast-Data-Analytics)
 
 Programing Language / Software - **Python, Power BI** \
-Python Library - **googleapiclient, numpy, pandas, seaborn, scikit-learn, nltk,  strings**
+Python Library - **numpy, pandas, seaborn, matplotlib, googleapiclient,scikit-learn, nltk,  strings**
 
 **Summary of the project**:
 
@@ -12,7 +12,7 @@ This project features a comprehensive Power BI dashboard analyzing MrBeast's You
 ##  [Project 2 - Lottery-Data-Analytics](https://github.com/AsherTeo/Lottery-Data-Analytics)
 
 Programing Language / Software - **Python, Power BI** \
-Python Library - **numpy, pandas, selenium, seaborn, scipy **
+Python Library - **numpy, pandas, selenium, seaborn, matplotlib, scipy**
 
 **Summary of the project**:
 
