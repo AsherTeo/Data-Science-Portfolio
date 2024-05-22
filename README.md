@@ -1,6 +1,6 @@
 ## Introduction
 
-##  Project 1 - MrBeast Analysis with Dashboard 
+##  [Project 1 - MrBeast Analysis with Dashboard](https://github.com/AsherTeo/MR-Beast-Data-Analytics)
 
 Programing Language / Software - **Python, Power BI** \
 Python Library - **numpy, pandas, seaborn, scikit-learn, nltk,  strings**
