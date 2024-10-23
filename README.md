@@ -38,4 +38,4 @@ Python Library - **numpy, pandas, yfinance, TensorFlow, statsmodels , matplotlib
 
 In this project, we analyzed Tesla stock data from January 1, 2019, to April 29, 2024, using the yfinance library, focusing on the 'Close' column, and conducted a Technical Analysis with indicators like Relative Strength Index (RSI) to identify trends and patterns. We employed various time series models, including ARIMA, LSTM, and Transformer, using TensorFlow for forecasting, fine-tuning with Optuna, and experimenting with machine learning techniques such as linear regression, Random Forest, and XGBoost. Finally, we compared the results using metrics like MAE, RMSE, and MAPE to evaluate the performance of each algorithm in time series forecasting.
 
-##  [Project 4 - Tesla-Stock-Predicition](https://github.com/AsherTeo/Tesla-Stock-Predicition)
+##  [Project 5 - Building-a-Mobile-Specification-Classifier-Using-Azure-ML-SDK-AutoML](https://github.com/AsherTeo/Tesla-Stock-Predicition)
