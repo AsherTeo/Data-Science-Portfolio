@@ -41,7 +41,7 @@ In this project, we analyzed Tesla stock data from January 1, 2019, to April 29,
 ##  [Project 5 - Building-a-Mobile-Specification-Classifier-Using-Azure-ML-SDK-AutoML](https://github.com/AsherTeo/Building-a-Mobile-Specification-Classifier-Using-Azure-ML-SDK-AutoML)
 
 Programing Language / Software - **Python** \
-Cloud Plateform - **Azure SDKv2, Azure AutoML, Azure Blob, Postman**
+Cloud Plateform - **Azure SDKv2, Azure AutoML, Azure Blob, Postman** \
 Python Library - **mlflow, azure.ai, numpy, pandas, statsmodels , matplotlib, scipy, scikit-learn,  optuna**
 
 **Summary of the project**:
@@ -51,7 +51,7 @@ In this project, I built a mobile specification classification model using Azure
 ##  [Project 6 - Heart-Disease-Prediction-using-PySpark-and-Azure-Databricks](https://github.com/AsherTeo/Heart-Disease-Prediction-using-PySpark-and-Azure-Databricks/tree/main)
 
 Programing Language / Software - **Python**, **PySpark** \
-Cloud Plateform - **Azure Blob & DataBrick**
+Cloud Plateform - **Azure Blob & DataBrick** \
 Python Library - **mlflow, pyspark, hyperopt, numpy, pandas, statsmodels , matplotlib, scipy, scikit-learn**
 
 **Summary of the project**:
