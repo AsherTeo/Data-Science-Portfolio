@@ -39,3 +39,11 @@ Python Library - **numpy, pandas, yfinance, TensorFlow, statsmodels , matplotlib
 In this project, we analyzed Tesla stock data from January 1, 2019, to April 29, 2024, using the yfinance library, focusing on the 'Close' column, and conducted a Technical Analysis with indicators like Relative Strength Index (RSI) to identify trends and patterns. We employed various time series models, including ARIMA, LSTM, and Transformer, using TensorFlow for forecasting, fine-tuning with Optuna, and experimenting with machine learning techniques such as linear regression, Random Forest, and XGBoost. Finally, we compared the results using metrics like MAE, RMSE, and MAPE to evaluate the performance of each algorithm in time series forecasting.
 
 ##  [Project 5 - Building-a-Mobile-Specification-Classifier-Using-Azure-ML-SDK-AutoML](https://github.com/AsherTeo/Building-a-Mobile-Specification-Classifier-Using-Azure-ML-SDK-AutoML)
+
+Programing Language / Software - **Python** \
+Cloud Plateform - **Azure ML **
+Python Library - **mlflow, azure.ai, numpy, pandas, statsmodels , matplotlib, scipy, scikit-learn,  optuna**
+
+**Summary of the project**:
+
+This project compared a manually optimized Azure ML pipeline with Azure AutoML for mobile price classification, with the manual approach achieving a 97% F1 score compared to AutoML's 93%. The results emphasize the importance of custom feature selection and hyperparameter tuning in enhancing classification performance. Overall, the project showcases the effectiveness of a tailored machine learning solution over automated methods in achieving higher accuracy.
