@@ -41,9 +41,20 @@ In this project, we analyzed Tesla stock data from January 1, 2019, to April 29,
 ##  [Project 5 - Building-a-Mobile-Specification-Classifier-Using-Azure-ML-SDK-AutoML](https://github.com/AsherTeo/Building-a-Mobile-Specification-Classifier-Using-Azure-ML-SDK-AutoML)
 
 Programing Language / Software - **Python** \
-Cloud Plateform - **Azure ML **
+Cloud Plateform - **Azure SDKv2, Azure AutoML, Azure Blob, Postman**
 Python Library - **mlflow, azure.ai, numpy, pandas, statsmodels , matplotlib, scipy, scikit-learn,  optuna**
 
 **Summary of the project**:
 
-This project compared a manually optimized Azure ML pipeline with Azure AutoML for mobile price classification, with the manual approach achieving a 97% F1 score compared to AutoML's 93%. The results emphasize the importance of custom feature selection and hyperparameter tuning in enhancing classification performance. Overall, the project showcases the effectiveness of a tailored machine learning solution over automated methods in achieving higher accuracy.
+In this project, I built a mobile specification classification model using Azure Machine Learning SDK v2 and compared it to an Azure AutoML model. The manually optimized pipeline achieved a 97% weighted F1 score, outperforming the AutoML approach, which scored 93%. After deploying the best model (SVM with StandardScaler) to an Azure Managed Online Endpoint, I validated its predictions using Postman by sending API requests. This project showcased the advantages of manual optimization while suggesting a potential hybrid approach that combines manual feature selection with AutoML.
+
+##  [Project 6 - Heart-Disease-Prediction-using-PySpark-and-Azure-Databricks](https://github.com/AsherTeo/Heart-Disease-Prediction-using-PySpark-and-Azure-Databricks/tree/main)
+
+Programing Language / Software - **Python**, **PySpark** \
+Cloud Plateform - **Azure Blob & DataBrick**
+Python Library - **mlflow, pyspark, hyperopt, numpy, pandas, statsmodels , matplotlib, scipy, scikit-learn**
+
+**Summary of the project**:
+
+In this project, I developed a heart failure prediction model using PySpark and Azure Databricks, employing MLlib for training and testing. After uploading the Kaggle Heart Failure Prediction dataset to Azure Blob Storage, I performed exploratory data analysis (EDA) using Pandas for visualizations. Various machine learning algorithms were evaluated, with the top three selected for hyperparameter optimization using Hyperopt, and model performance was assessed with the F1 score. The final model, a fine-tuned LightGBM, showcased my proficiency in leveraging PySpark and MLlib for effective machine learning solutions.
+
