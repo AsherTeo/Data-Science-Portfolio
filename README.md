@@ -58,3 +58,5 @@ Python Library - **mlflow, pyspark, hyperopt, numpy, pandas, statsmodels , matpl
 
 In this project, I developed a heart failure prediction model using PySpark and Azure Databricks, employing MLlib for training and testing. After uploading the Kaggle Heart Failure Prediction dataset to Azure Blob Storage, I performed exploratory data analysis (EDA) with Pandas for visualizations. Various machine learning algorithms were evaluated, with the top three selected for hyperparameter optimization using Hyperopt, ultimately achieving an impressive F1 score of 0.9514 for validation and 0.901 for testing with the final fine-tuned LightGBM model. This project showcased my proficiency in leveraging PySpark and MLlib to create effective machine learning solutions.
 
+##  [Project 7 - Airbnb-Price-Prediction-Using-a-Multimodal-Model](https://github.com/AsherTeo/Airbnb-Price-Prediction-Using-a-Multimodal-Model)
+
