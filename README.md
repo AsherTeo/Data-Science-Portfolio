@@ -60,3 +60,9 @@ In this project, I developed a heart failure prediction model using PySpark and 
 
 ##  [Project 7 - Airbnb-Price-Prediction-Using-a-Multimodal-Model](https://github.com/AsherTeo/Airbnb-Price-Prediction-Using-a-Multimodal-Model)
 
+Programing Language / Software - **Python** \
+Python Library - **numpy, pandas, statsmodels , matplotlib, scipy, scikit-learn, transformer, torch**
+
+**Summary of the project**:
+
+This project developed a multi-modal machine learning model to predict Airbnb prices in Melbourne by effectively integrating numerical, categorical, and textual features. Textual features were processed using BERT embeddings, and max pooling was applied to extract meaningful contextual representations, which were then combined with structured metadata. This integration, leveraging a fine-tuned XGBoost model, delivered the best performance (MAE: 43.652, RMSE: 136.251), demonstrating that the effectiveness of text features depends on robust representation techniques and seamless integration with structured data.
